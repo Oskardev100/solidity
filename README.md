@@ -13,9 +13,9 @@ Source code:
 
 2) On your terminal/line of command
 2.1) Navigate to sampleContract folder
-2.2) Run the command: npm -i
+2.2) Run the command: npm i
 2.2) Navigate to you the sampleWebApp folder
-2.3) run the command npm -i
+2.3) run the command npm i
 
 3) Ensure your contract compiles and pass all unit test
 3.1) On the sampleContract run this command: npm test
