@@ -5,9 +5,8 @@ const Web3 = require('web3');
 const { abi, evm } = require('./compile');
 
 const provider = new HDWalletProvider(
-  'nothing bird capital exercise bus draft hard depend wood another bachelor erase',
-  'https://goerli.infura.io/v3/897348593abd4c7bbabb7fa6bb54f982'
-
+  '',
+  ''
   );
 
 const web3 = new Web3(provider);
