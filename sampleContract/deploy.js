@@ -5,8 +5,8 @@ const Web3 = require('web3');
 const { abi, evm } = require('./compile');
 
 const provider = new HDWalletProvider(
-  '',
-  ''
+  'put your 12 keyword phrase here',
+  'infura api on GOERLI'
   );
 
 const web3 = new Web3(provider);
